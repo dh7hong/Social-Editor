@@ -186,7 +186,8 @@ button {
 .menu__button--active {
 	background-color: #2b363b;
 	color: #fff;
-	position: relative; /* for the ::before pseudo-element */
+	position: relative; 
+    /* for the ::before pseudo-element */
 }
 
 .menu__button--active::before {
